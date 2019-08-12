@@ -1,0 +1,31 @@
+name,description,html_url,watchers_count,watchers_count,stargazers_count,forks_count
+awesome-python,"A curated list of awesome Python frameworks, libraries, software and resources",https://github.com/vinta/awesome-python,71012,71012,71012,13894
+system-design-primer,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.,https://github.com/donnemartin/system-design-primer,70646,70646,70646,11121
+public-apis,A collective list of free APIs for use in software and web development.,https://github.com/public-apis/public-apis,59916,59916,59916,6391
+models,Models and examples built with TensorFlow,https://github.com/tensorflow/models,56359,56359,56359,35274
+youtube-dl,Command-line program to download videos from YouTube.com and other video sites,https://github.com/ytdl-org/youtube-dl,54156,54156,54156,9405
+flask,The Python micro framework for building web applications.,https://github.com/pallets/flask,45828,45828,45828,12796
+thefuck,Magnificent app which corrects your previous console command.,https://github.com/nvbn/thefuck,45462,45462,45462,2256
+keras,Deep Learning for humans,https://github.com/keras-team/keras,43394,43394,43394,16509
+django,The Web framework for perfectionists with deadlines.,https://github.com/django/django,43325,43325,43325,18635
+httpie,"As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp",https://github.com/jakubroztocil/httpie,42614,42614,42614,2807
+awesome-machine-learning,"A curated list of awesome Machine Learning frameworks, libraries and software.",https://github.com/josephmisiti/awesome-machine-learning,41229,41229,41229,10395
+requests,Python HTTP Requests for Humans™ ✨🍰✨,https://github.com/psf/requests,39730,39730,39730,7221
+ansible,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/",https://github.com/ansible/ansible,38806,38806,38806,16345
+scikit-learn,scikit-learn: machine learning in Python,https://github.com/scikit-learn/scikit-learn,36545,36545,36545,17928
+scrapy,"Scrapy, a fast high-level web crawling & scraping framework for Python.",https://github.com/scrapy/scrapy,33951,33951,33951,7958
+big-list-of-naughty-strings,The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.,https://github.com/minimaxir/big-list-of-naughty-strings,32948,32948,32948,1410
+shadowsocks,,https://github.com/shadowsocks/shadowsocks,31009,31009,31009,18905
+XX-Net,a web proxy tool,https://github.com/XX-net/XX-Net,28430,28430,28430,7660
+face_recognition,The world's simplest facial recognition api for Python and the command line,https://github.com/ageitgey/face_recognition,26906,26906,26906,7214
+you-get,:arrow_double_down: Dumb downloader that scrapes the web,https://github.com/soimort/you-get,26379,26379,26379,5278
+cpython,The Python programming language,https://github.com/python/cpython,25983,25983,25983,11096
+home-assistant,:house_with_garden: Open source home automation that puts local control and privacy first,https://github.com/home-assistant/home-assistant,25752,25752,25752,7489
+Algorithm_Interview_Notes-Chinese,2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记,https://github.com/imhuay/Algorithm_Interview_Notes-Chinese,25736,25736,25736,7936
+certbot,Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.,https://github.com/certbot/certbot,25461,25461,25461,2646
+100-Days-Of-ML-Code,100 Days of ML Coding,https://github.com/Avik-Jain/100-Days-Of-ML-Code,24882,24882,24882,5971
+CppCoreGuidelines,"The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",https://github.com/isocpp/CppCoreGuidelines,23834,23834,23834,3127
+Deep-Learning-Papers-Reading-Roadmap,Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!,https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap,23721,23721,23721,5395
+tldr,:books: Simplified and community-driven man pages,https://github.com/tldr-pages/tldr,23172,23172,23172,1726
+sentry,"Sentry is cross-platform application monitoring, with a focus on error reporting.",https://github.com/getsentry/sentry,21734,21734,21734,2506
+faceswap,Deepfakes Software For All,https://github.com/deepfakes/faceswap,21660,21660,21660,7170

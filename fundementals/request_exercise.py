@@ -47,7 +47,7 @@ def requests_authorization():
     print(response.text)
 
 
-def requests_authorization_flase():
+def requests_authorization_false():
     response = requests.get('http://httpbin.org/basic-auth/abc/test', auth=('abcd', 'test'))
     print(response)
     print(response.text)  # don't print anything if auth is wrong
