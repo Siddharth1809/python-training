@@ -1,9 +1,9 @@
 name,description,html_url,watchers_count,stargazers_count,forks_count
 awesome-python,"A curated list of awesome Python frameworks, libraries, software and resources",https://github.com/vinta/awesome-python,71041,71041,13900
-system-design-primer,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.,https://github.com/donnemartin/system-design-primer,70707,70707,11141
+system-design-primer,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.,https://github.com/donnemartin/system-design-primer,70706,70706,11141
 public-apis,A collective list of free APIs for use in software and web development.,https://github.com/public-apis/public-apis,59952,59952,6400
-models,Models and examples built with TensorFlow,https://github.com/tensorflow/models,56401,56401,35309
-youtube-dl,Command-line program to download videos from YouTube.com and other video sites,https://github.com/ytdl-org/youtube-dl,54302,54302,9411
+models,Models and examples built with TensorFlow,https://github.com/tensorflow/models,56400,56400,35309
+youtube-dl,Command-line program to download videos from YouTube.com and other video sites,https://github.com/ytdl-org/youtube-dl,54301,54301,9411
 flask,The Python micro framework for building web applications.,https://github.com/pallets/flask,45843,45843,12802
 thefuck,Magnificent app which corrects your previous console command.,https://github.com/nvbn/thefuck,45520,45520,2261
 keras,Deep Learning for humans,https://github.com/keras-team/keras,43417,43417,16521
