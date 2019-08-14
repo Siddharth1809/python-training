@@ -96,7 +96,7 @@ print(list_comprehension_pair())
 # list comprehension for values divisible by 2 and 5
 def list_comprehension_div():
     result_list = [x for x in range(100) if x % 2 == 0 if x % 5 == 0]
-    return "In range of 100 elements divisble by 2 and 5 are:", result_list
+    return "In range of 100 elements divisible by 2 and 5 are:", result_list
 
 
 print(list_comprehension_div())
