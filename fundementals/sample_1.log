@@ -1,0 +1,6 @@
+2019-08-16 10:51:15,012:ERROR:Tried to divide by zero
+2019-08-16 10:51:56,734:ERROR:Tried to divide by zero
+Traceback (most recent call last):
+  File "/home/mtech/Projects/python-training/fundementals/logging_example.py", line 34, in divide
+    result = x / y
+ZeroDivisionError: division by zero
