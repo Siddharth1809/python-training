@@ -7,6 +7,7 @@
 from flask import Flask, jsonify
 from flask import abort
 from flask import make_response
+from flask import request
 
 app = Flask(__name__)
 
@@ -49,7 +50,7 @@ def get_task(task_id):
 
 
 @app.errorhandler(404)
-def mot_found(error):
+def not_found(error):
     return make_response(jsonify({'error': 'Not Found'}), 404)
 
 
